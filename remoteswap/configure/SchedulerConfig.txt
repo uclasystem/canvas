@@ -1,0 +1,13 @@
+SchedulerInfo #Max number of scheduler: 4(fixed)
+SchedulerCores #
+20 40 78 79
+SchedulerThreshold #(MB/s or us) (Recommend higher)
+-10000
+SchedulerAutoMaintainTime #(s) (Recommend 100)
+100
+SchedulerPolicyBoundary #Max 100
+-1 10 20 30
+SchedulerCheckDuration #(ms) Recommend 100 or more
+100
+SchedulerPollTimes #Recommend 10 or more
+10

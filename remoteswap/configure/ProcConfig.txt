@@ -1,0 +1,18 @@
+ProcInfo
+AppsNum #Less than 50
+4
+MaxNameLength #Less than 100
+20
+ProcName #
+Memcached SparkTC SparkLR SparkKM
+ProcThreadsNum #
+4 16 16 16
+ProcCoresAllocation #Follow the order above, Less than 200
+18 19 38 39 
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 
+21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36
+61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76
+ProcWeights #Only Integer
+1 1 1 1
+ProcLatencyCritical #1: yes, 0: no
+1 0 0 0
