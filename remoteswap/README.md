@@ -131,7 +131,3 @@ RemoteSwap supports debugging using local memory as a fake "remote memory pool".
 # (under the remoteswap/client dir)
 make BACKEND=DRAM
 ```
-
-# Any Questions or Suggestions, Please Contact
-
-zhangyulong191@mails.ucas.ac.cn
